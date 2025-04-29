@@ -1,0 +1,50 @@
+---
+title: "Tesis-Proyecto"
+author: "Elda Pérez Campos"
+format:
+  html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   number-sections: true
+   output-file: index
+   theme: darkly
+   css: estilo.css
+editor_options: 
+  chunk_output_type: console
+---
+
+# TITULO
+
+ANÁLISIS AGRONÓMICO Y FISIOLÓGICO DE CINCO CULTIVARES DE BETERRAGA (Beta vulgaris) BAJO LAS CONDICIONES AGROCLIMÁTICAS DE CHACHAPOYAS, AMAZONAS
+
+# PROBLEMA DE INVESTIGACIÓN
+
+La provincia de Chachapoyas, Amazonas, presentan condiciones óptimas para la producción de diversas hortalizas, caracterizada por presentar temperaturas frescas y suelos fértiles. Dentro de las hortalizas, el cultivo de la beterraga tiene un gran potencial y para obtener buenos rendimientos es necesario utilizar semillas de cultivares adaptados a las condiciones agroclimáticas de Chachapoyas el cual influirá en el comportamiento agronómico y fisiológico así como en la calidad de la raíz de cada cultivar.
+En base a lo descrito anteriormente se plantea la siguiente pregunta de la investigación:
+ ¿Cuáles serán las respuestas agronómicas y fisiológicas del cultivo de cinco cultivares de beterraga bajo las condiciones agroclimáticas de Chachapoyas, Amazonas?
+
+# OBJETIVOS
+
+## Objetivo general
+
+Determinar las respuestas agronómicas y fisiológicas de cinco cultivares de beterragas bajo las condiciones agroclimáticas de Chachapoyas, Amazonas.
+
+## Objetivos específicos
+
+- Evaluar el comportamiento fenológico de cinco cultivares de beterraga bajo las condiciones agroclimáticas de Chachapoyas.
+
+
+- Analizar los parámetros agronómicos de cinco cultivares de beterraga bajo las condiciones agroclimáticas de Chachapoyas.
+
+
+- Analizar los parámetros fisiológicos de cinco cultivares de beterraga bajo las condiciones agroclimáticas de Chachapoyas.
+
+
+- Determinar los parámetros de calidad de raíz de cinco cultivares de beterraga bajo las condiciones agroclimáticas de Chachapoyas.
+
+
+
+
+
+
