@@ -1,0 +1,12 @@
+---
+title: "GERMINACIÓN DE SEMILLAS DE BETERRAGA (Beta vulgaris) BAJO EFECTO DE CINCO CULTIVARES"
+author: Elda Pérez Campos  
+date: "2025-04-29"  
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: darkly
+    highlight: tango
+---
