@@ -56,9 +56,6 @@ El presente trabajo de investigación se realizará en la Universidad Nacional T
 
 ![**Figura 1.** Mapa de Chachapoyas](Imagen3.png)
 
-
-
-
 ## Población, muestra y muestreo
 
 ### Población
@@ -166,8 +163,6 @@ Se instalará un experimento, bajo un diseño de bloques completamente al azar (
 
 
 ![**Figura 2**.Distribución de los tratamientos en el campo experimental](Imagen2.png)
-
-
 
 ### Características del campo experimental
 
